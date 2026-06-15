@@ -34,10 +34,11 @@ Développeur full-stack orienté produit. Je suis à l'aise sur toute la chaîne
 ### Projets épinglés
 
 🏨 **[MySweetHotel](https://github.com/Dadou1985/MySweetHotelPro)** — SaaS de gestion hôtelière en production
-La solution se décompose en deux briques que j'ai conçues et déployées :
+La solution se décompose en trois briques que j'ai conçues et déployées :
 
-- **[MySweetHotelPro](https://github.com/Dadou1985/MySweetHotelPro)** — l'application métier (Gatsby / React / Redux / Tailwind) : CRM, chat multilingue, tableau de bord, checklists, planification… Tests Jest, i18n, Docker, CI GitHub Actions.
-- **[MSH-BackOffice](https://github.com/Dadou1985/MSH-BackOffice)** — l'API (Node / TypeScript strict) : Apollo GraphQL, Socket.IO temps réel, MongoDB, JWT + blacklist Redis, web push, tâches cron.
+- **[MySweetHotelPro](https://github.com/Dadou1985/MySweetHotelPro)** — l'application métier à destination du personel hôtelier (Gatsby / React / Redux / bootstrap) : CRM, chat multilingue, tableau de bord, checklists, planification… Tests Jest, i18n, Docker, CI GitHub Actions.
+- **[MySweetHotel](https://github.com/Dadou1985/MySweetHotel)** - l'application mobile à destination de la clientèle hôtelière (React-native) 
+- **[MSH-BackOffice](https://github.com/Dadou1985/MSH-BackOffice)** — l'API (Node / TypeScript) : Apollo GraphQL, Socket.IO temps réel, MongoDB, JWT + blacklist Redis, web push, tâches cron.
 
 🎯 **[Focus](https://github.com/Dadou1985/Focus)** — Application qui adapte l'environnement de travail à l'état d'esprit de l'utilisateur (TypeScript).
 
