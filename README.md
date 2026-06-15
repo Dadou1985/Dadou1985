@@ -8,7 +8,7 @@
   ════════════════════════════════════════════════════════════════════
 -->
 
-# David Simba — Développeur Full-Stack JavaScript / TypeScript
+# David Simba — Développeur Full-Stack TypeScript
 
 Développeur Senior Full-Stack JavaScript avec 5 ans d'expérience dans l'écosystème React / Node.js / TypeScript. Expert en architecture composants (Design Systems, SSR/SSG/ISR, Core Web Vitals) et en conception d'APIs scalables (REST domain-driven, GraphQL, authentification multi-stratégie, temps réel). Maîtrise de Next.js, Express.js, Tailwind CSS, PostgreSQL/Prisma et MongoDB/Mongoose. Solide culture DevOps (CI/CD Jenkins, Docker, Firebase) et qualité logicielle (TDD, revues de code, mentoring). Experience en cross-platform React Native et en pilotage technique (CTO fondateur, leadership front/back).
 
