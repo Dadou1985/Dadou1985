@@ -10,7 +10,7 @@
 
 # David Simba — Développeur Full-Stack JavaScript / TypeScript
 
-> Je conçois et opère des applications web de bout en bout — du front React à l'API Node, jusqu'au déploiement. 5 ans d'expérience, dont la conception et la mise en production d'un SaaS B2B utilisé par des hôtels.
+> Développeur Senior Full-Stack JavaScript avec 5 ans d'expérience dans l'écosystème React / Node.js / TypeScript. Expert en architecture composants (Design Systems, SSR/SSG/ISR, Core Web Vitals) et en conception d'APIs scalables (REST domain-driven, GraphQL, authentification multi-stratégie, temps réel). Maîtrise de Next.js, Express.js, Tailwind CSS, PostgreSQL/Prisma et MongoDB/Mongoose. Solide culture DevOps (CI/CD Jenkins, Docker, Firebase) et qualité logicielle (TDD, revues de code, mentoring). Experience en cross-platform React Native et en pilotage technique (CTO fondateur, leadership front/back).
 
 🇫🇷 Basé en France · 🌍 Français / Anglais · 💼 [Ouvert aux opportunités — CDI / freelance]
 
@@ -22,9 +22,11 @@ Développeur full-stack orienté produit. Je suis à l'aise sur toute la chaîne
 
 **Stack principale**
 
-- **Front** — React, Next, Gatsby, Redux, Zustand, Tanstack Query, TailwindCSS, Shadcn UI, i18n
-- **Back** — Node.js, TypeScript, Express, GraphQL, Socket.IO
-- **Données** — Prisma, SQL, MongoDB / Mongoose, Firebase (Firestore, Auth)
+- **Front** — React 18, Next.js 14+, TypeScript, React Native, Redux, Zustand, Tanstack Query
+- **Back** — Node.js, TypeScript, Express, Nest.js, GraphQL, Socket.IO
+- **Styling & Design Systems** - Tailwind CSS, CSS Modules, shadcn/ui, MUI
+- **Données** — PostgreSQL (Prisma ORM), MongoDB (Mongoose), Redis, Firebase (Firestore, Auth)
+- **State Management** - Zustand, Redux Toolkit, React Query / TanStack Query
 - **Outils & infra** — Docker, GitHub Actions (CI/CD), Jest, ESLint / Prettier, Redis
 
 ---
