@@ -40,9 +40,9 @@ La solution se décompose en trois briques que j'ai conçues et déployées :
 - **[MySweetHotel](https://github.com/Dadou1985/MySweetHotel)** - l'application mobile à destination de la clientèle hôtelière (React-native) 
 - **[MSH-BackOffice](https://github.com/Dadou1985/MSH-BackOffice)** — l'API (Node / TypeScript) : Apollo GraphQL, Socket.IO temps réel, MongoDB, JWT + blacklist Redis, web push, tâches cron.
 
-🎯 **[Focus](https://github.com/Dadou1985/Focus)** — Application qui adapte l'environnement de travail à l'état d'esprit de l'utilisateur (TypeScript).
+🎯 **[Focus](https://github.com/Dadou1985/Focus)** — Application qui adapte l'environnement de travail à l'état d'esprit de l'utilisateur (Next.js, Express.js, TypeScript, Tailwind, Zustand, Tanstack Query).
 
-💸 **[CheckTaPaie-Game](https://github.com/Dadou1985/CheckTaPaie-Game)** — [une ligne décrivant la valeur du projet] (TypeScript).
+💸 **[Level Up](https://github.com/Dadou1985/CheckTaPaie-Game)** — Une formation gamifiée conçue comme un serious game mobile (accessible uniquement sur mobile) (React-native, Expo, TypeScript).
 
 ---
 
