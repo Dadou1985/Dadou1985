@@ -55,4 +55,4 @@ L'essentiel de mon travail se fait sur des bases de code privées (projets clien
 ### Me contacter
 
 - 📫 [david.simba1985@gmail.com](mailto:david.simba1985@gmail.com)
-- 💼 [LinkedIn — lien à compléter]
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-simba-961316140/)
